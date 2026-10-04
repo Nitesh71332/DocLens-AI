@@ -1,0 +1,9 @@
+DocuLens AI Test Document
+
+Employee Name: Rahul Kumar
+
+The annual salary is ₹8,40,000.
+
+The probation period is 6 months.
+
+This document is used to test document extraction.

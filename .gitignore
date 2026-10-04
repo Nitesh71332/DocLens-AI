@@ -1,0 +1,23 @@
+# secrets
+.env
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# node / frontend
+node_modules/
+dist/
+
+# generated at runtime
+backend/app/storage/uploads/*
+backend/app/storage/pages/*
+backend/app/storage/chroma/*
+backend/app/storage/claims_cache/*
+*.db
+
+# misc
+*.log
+.DS_Store
